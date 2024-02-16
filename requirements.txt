@@ -1,0 +1,4 @@
+dnspython==2.2.0
+tldextract==3.2.0
+colorama==0.4.4
+
